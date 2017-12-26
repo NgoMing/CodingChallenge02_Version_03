@@ -28,41 +28,42 @@ Store the id of the winning child
 -------------
 Prerequisites
 --------------
-What things I need to install the software and how to install them
+(What things I need to install the software and how to install them)
 
 
 
 ----------
 Installing
 ----------
-A step by step series of examples that tell you have to get a development
- environment running
+(A step by step series of examples that tell you have to get a development
+ environment running)
 
 
 -----------------
 Running the Tests
 -----------------
-Explain how to run the automated tests for this system
-The TDD approach is used to build the solution
+Use command: gradle test
 
 
 ----------
 Deployment
 ----------
-Add additional notes about how to deploy this on a live system
+(Add additional notes about how to deploy this on a live system)
 
 
 
 -----------------------
 Build With
 -----------------------
-- Web framework used
-- Dependency Management
-
+- Repositories:
+    mavenCentral();
+- Dependency Management of Gradle include testCompile:
+    JUnit 4.12
+    JUnitParams 1.1.1 
 
 
 ----------
 Versioning
 ----------
-Current version is 2.0
-Repository in GitHub: https://github.com/NgoMing/CodingChallenge02_version_02.git
+Current version is 3.0
+Repository in GitHub:https://github.com/NgoMing/CodingChallenge02_Version_03.git

@@ -2,7 +2,6 @@ package com.minhnln.RoundTable.model;
 
 import junitparams.JUnitParamsRunner;
 import junitparams.Parameters;
-import junitparams.converters.Param;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 

@@ -5,8 +5,6 @@ import junitparams.Parameters;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
-import static com.googlecode.catchexception.CatchException.*;
-
 import static org.junit.Assert.*;
 
 @RunWith(JUnitParamsRunner.class)
